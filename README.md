@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ONLINE CAKE MANAEMENT SYSTEM [Repo - yet to be created..]
+- 🔭 I’m currently working on ONLINE CAKE ORDERING SYSTEM [Repo - yet to be created..]
 - 🌱 I’m currently learning VueJs
 - 👯 I’m looking to collaborate on Interesting Projects.
 - 🔭 Recent Project - ONLINE COURSE MANAEMENT SYSTEM [Repo Name - OwnYourPath_E-Learn]
