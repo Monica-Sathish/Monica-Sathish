@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Interesting Projects.
 - 🔭 Recent Project - Ecoomerce Project & Quiz Application & Weather Application & Github Finder
 - 💬 Ask me about Full Stack Development
-- ⚡ Front End Development => HTML 5, CSS 3, Bootstrap 5, Java Script, ReactJs, Swift, VueJs
-- ⚡ Back End => PHP, NodeJs, ExpressJs, SpringBoot, Java, Python
-- ⚡ Knowledge On => MySql, MongoDb, Redis, Kafka, PostgreSql, Oracle, Zookeeper
+- ⚡ Front End Development => HTML 5, CSS 3, Bootstrap 5, Java Script, ReactJs, VueJs
+- ⚡ Back End => PHP, NodeJs, SpringBoot, Java, Python
+- ⚡ Knowledge On => Solr, MySql, MongoDb, Redis, Kafka, PostgreSql, Oracle, Zookeeper
