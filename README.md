@@ -13,9 +13,9 @@ I'm a passionate Software Engineer with 2.9 years of experience building scalabl
 
 - **Languages:** Java, Python
 - **Frameworks:** Spring Boot, Flask, Vertex AI
-- **Cloud Platforms:** Google Cloud Platform (Cloud Run, Pub/Sub, GCS), AWS (S3, SQS, Lambda)  
+- **Cloud Platforms:** Google Cloud Platform (Cloud Run, Pub/Sub, GCS), AWS (S3, SQS, Lambda, Fargate, EventBridge)
 - **Databases:** Solr, PostgreSQL, MongoDB
-- **Tools:** Git, Maven, Gradle  
+- **Tools:** Git, Maven, Gradle
 - **Message Queues:** Kafka, Pub/Sub, SQS
 
 
