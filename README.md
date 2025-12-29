@@ -22,40 +22,20 @@ I'm a passionate **Software Engineer** with **~3 years of experience** building 
 
 ## 🧰 Tech Stack
 
-### Languages
+**Languages:**  Java, Python  
 
-* **Java**, **Python**
+**Backend & Frameworks:**  Spring Boot, Flask, Conductor, Vertex AI  
 
-### Backend & Frameworks
+**Messaging & Eventing:**  Kafka, Google Pub/Sub, Redis Pub/Sub, AWS SQS  
 
-* **Spring Boot**, **Flask**
-* **Netflix Conductor** (workflow orchestration)
-* **Vertex AI** (transcription, extraction, analysis, and ML-driven insights)
+**Cloud Platforms:**  
+* GCP – Cloud Run, Pub/Sub, GCS, Vertex AI, Kubernetes  
+* AWS – S3, SQS, Lambda, Fargate, EventBridge, ECR, ECS  
 
-### Messaging & Eventing
+**Databases:**  PostgreSQL, MongoDB, Solr  
 
-* **Kafka**
-* **Google Pub/Sub**
-* **AWS SQS**
+**Build & Tools:**  Git, Gradle, Maven  
 
-### Cloud Platforms
-
-* **Google Cloud Platform**
-
-  * Cloud Run, Pub/Sub, Google Cloud Storage (GCS), Vertex AI, K8
-* **Amazon Web Services**
-
-  * S3, SQS, Lambda, Fargate, EventBridge, ECR
-
-### Databases & Search
-
-* **PostgreSQL**
-* **MongoDB**
-* **Solr**
-
-### Build & Tools
-
-* Git, Gradle, Maven
 
 ---
 ## 📌 Featured Projects
