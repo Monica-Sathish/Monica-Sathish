@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Monica
+# 👋 Hi there, I'm Monica Sathish Kumar
 
 I'm a passionate **Software Engineer** with **~3 years of experience** building scalable backend systems and cloud-native solutions. I enjoy solving complex problems, designing reliable distributed systems, and writing clean, maintainable code that scales with both traffic and teams.
 
